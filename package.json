@@ -1,9 +1,9 @@
 {
-  "name": "@tinymce/tinymce-react",
+  "name": "@hammad/tinymce-react",
   "version": "2.2.5",
-  "description": "Official TinyMCE React Component",
+  "description": "Forked Official TinyMCE React Component",
   "repository": {
-    "url": "https://github.com/tinymce/tinymce-react"
+    "url": "https://github.com/hammadfauz/tinymce-react"
   },
   "files": [
     "lib",
